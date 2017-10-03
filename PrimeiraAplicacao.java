@@ -25,4 +25,4 @@ public class PrimeiraAplicacao {
         System.out.println("chassi:"+meuCarro.getChassi()+"//"+"cor:"+meuCarro.getcor()+"//"+"modelo:"+meuCarro.getmodelo());
     }
 
-
+}
